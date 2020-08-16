@@ -1,3 +1,4 @@
 Circle
 Square
 Triangle
+Dot
